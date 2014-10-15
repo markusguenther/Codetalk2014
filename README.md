@@ -75,6 +75,7 @@ Andreas Kirsch
 - Kopf frei für’s Produkt – Automatisierung mit Ansible und Jenkins
 Andre Christ, Dr. Daniel Pozzi
   - http://de.slideshare.net/leanIX_net/codetalks2014
+  - https://github.com/leanix/codetalks_2014_demo
  
 - Programming the futureEnglisch
 Josep M. Bach
@@ -174,6 +175,8 @@ Björn Brauer, Martin Schuhfuß
  
 - Log all the things! – Event-basierende, effiziente und skalierbare Datenaggregation mit fluentd
 Moritz Heiber
+  - https://github.com/moritzheiber/codetalks-2014-fluentd-presentation
+  - https://github.com/moritzheiber/codetalks-2014-fluentd-presentation
  
 - Open Commerce by ABOUT YOU: Lessons learned im Aufbau eines App Öko-Systems
 Sebastian Betz
